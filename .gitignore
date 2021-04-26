@@ -1,0 +1,3 @@
+*.sqlite
+*.lock
+node_modules
